@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ChangeNames4AutoSeries/Form1.cs) (VB: [Form1.vb](./VB/ChangeNames4AutoSeries/Form1.vb))
+<!-- default file list end -->
 # How to change the names of auto-created series
 
 
